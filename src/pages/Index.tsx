@@ -318,7 +318,7 @@ export default function Index() {
                 </CardHeader>
                 <CardContent>
                   <div className="text-6xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-                    0<span className="text-2xl text-muted-foreground">/1000</span>
+                    0<span className="text-2xl text-muted-foreground">/2500</span>
                   </div>
                 </CardContent>
               </Card>
