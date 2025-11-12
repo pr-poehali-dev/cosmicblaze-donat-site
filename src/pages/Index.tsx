@@ -332,10 +332,10 @@ export default function Index() {
                 </CardHeader>
                 <CardContent>
                   <div className="flex items-center space-x-3">
-                    <div className="w-4 h-4 rounded-full bg-green-500 animate-pulse" />
-                    <span className="text-2xl font-bold text-green-500">ONLINE</span>
+                    <div className="w-4 h-4 rounded-full bg-red-500" />
+                    <span className="text-2xl font-bold text-red-500">OFFLINE</span>
                   </div>
-                  <p className="text-sm text-muted-foreground mt-2">Аптайм: 99.9%</p>
+                  <p className="text-sm text-muted-foreground mt-2">Сервер выключен</p>
                 </CardContent>
               </Card>
             </div>
