@@ -346,7 +346,7 @@ export default function Index() {
               </CardHeader>
               <CardContent>
                 <div className="bg-muted rounded-lg p-4 flex items-center justify-between">
-                  <code className="text-2xl font-mono text-primary">play.cosmicblaze.ru</code>
+                  <code className="text-2xl font-mono text-primary">mc-Cosmicblaze.aternos.me</code>
                   <Button variant="outline" size="sm">
                     <Icon name="Copy" size={16} className="mr-2" />
                     Копировать
